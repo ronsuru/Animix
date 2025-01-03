@@ -23,7 +23,18 @@ This script automates various tasks for the Animix miniapp telegram.
 ![usersData](img/image-1.png)
 
 ## Installation
-
+- Download Termux apk
+    ```sh
+    https://github.com/termux/termux-app/releases/download/v0.118.1/termux-app_v0.118.1+github-debug_universal.apk
+    ```
+- Install Termux and Open it
+- Install Git Clone, Nodejs
+  ```sh
+    pkg install git
+    pkg install nodejs
+    pkg install nodejs-lts
+    ```
+  
 1. Clone the repository:
     ```sh
     git clone https://github.com/ronsuru/animix.git
