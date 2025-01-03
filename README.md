@@ -49,12 +49,7 @@ This script automates various tasks for the Animix miniapp telegram.
     ```sh
     nano users.txt
     ```
-4. optionally you can use proxy: 
-- paste proxy in `proxy.txt` format `http://username:password@ip:port` 
-    ```sh
-    nano proxy.txt
-    ```
-5. Run the script:
+4. Run the script:
     ```sh
     npm run start
     ```
