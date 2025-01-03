@@ -26,7 +26,7 @@ This script automates various tasks for the Animix miniapp telegram.
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/ronsuru/animix
+    git clone https://github.com/ronsuru/animix.git
     cd animixBot
     ```
 
